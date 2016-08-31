@@ -4,8 +4,9 @@
 效果图
 <!--![效果图](https://github.com/lanshijie/CGContextLine/images/IMG.PNG)-->
 <p align="center" >
-  <img src="https://raw.github.com/lanshijie/CGContextLine/images/IMG.PNG">
+  <img src="http://raw.github.com/lanshijie/CGContextLine/images/IMG.PNG">
 </p>
 原理
 由中心点向外画线，然后内部在用一个圆遮盖住不显示的线条
+
 
